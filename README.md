@@ -48,7 +48,7 @@ Para mais detalhes sobre como usar, veja uma pasta de exemplo no diretório do c
 
 require __DIR__ . "/../vendor/autoload.php";
 
-use RenatoPs1991\CafeApi\Me;
+use renatops1991\CafeApi\Me;
 
 $me = new Me(
     "suaapi.url.com",
