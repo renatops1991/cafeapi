@@ -1,5 +1,5 @@
 {
-  "name": "RenatoPs1991/cafeapi",
+  "name": "renatops1991/cafeapi",
   "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
   "keywords": [
     "FSPHP",
@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Renatops1991\\CafeApi\\": "src"
+      "renatops1991\\CafeApi\\": "src"
     }
   }
 }
