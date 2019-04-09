@@ -164,8 +164,8 @@ Thank you
 
 ## Credits
 
-- [Robson V. Leite](https://github.com/RenatoPs1991) (Developer)
-- [UpInside Treinamentos](https://github.com/RenatoPs1991) (Team)
+- [Renato P. Santos](https://github.com/RenatoPs1991) (Developer)
+- [UpInside Treinamentos](https://github.com/robsonvleite) (Team)
 - [All Contributors](https://github.com/RenatoPs1991/cafeapi/contributors) (This Rock)
 
 ## License
