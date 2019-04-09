@@ -13,7 +13,7 @@
 
 CaféApi Library é um pequeno conjunto de classes desenvolvidas na formação Full Stack PHP Developer da UpInside para integração ao webservice de uma plataforma SaaS desenvolvida no curso.
 
-Você pode saber mais **[clicando aqui](https://www.wrenatodesenvolvedor.com.br/api/cafeapi)**.
+Você pode saber mais **[clicando aqui](https://www.renatodesenvolvedor.com.br/api/cafeapi)**.
 
 ### Highlights
 
@@ -166,7 +166,7 @@ Thank you
 
 - [Robson V. Leite](https://github.com/RenatoPs1991) (Developer)
 - [UpInside Treinamentos](https://github.com/RenatoPs1991) (Team)
-- [All Contributors](https://github.com/RenatoPs1991/uploader/contributors) (This Rock)
+- [All Contributors](https://github.com/RenatoPs1991/cafeapi/contributors) (This Rock)
 
 ## License
 
