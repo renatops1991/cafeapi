@@ -1,6 +1,6 @@
 <?php
 
-namespace RenatoPs1991\CafeApi;
+namespace renatops1991\CafeApi;
 
 /**
  * Class Invoices

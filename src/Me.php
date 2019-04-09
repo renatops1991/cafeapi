@@ -1,6 +1,6 @@
 <?php
 
-namespace Renatops1991\CafeApi;
+namespace renatops1991\CafeApi;
 
 /**
  * Class Me

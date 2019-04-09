@@ -1,6 +1,6 @@
 <?php
 
-namespace RobsonVLeite\CafeApi;
+namespace renatops1991\CafeApi;
 
 /**
  * Class Wallets
