@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1 ## nao alterar
-kind: API ## Component | Template | API | Group | User | Resource | System | Domain | Location => More info at https://backstage.io/docs/features/software-catalog/descriptor-format
+kind: Component ## Component | Template | API | Group | User | Resource | System | Domain | Location => More info at https://backstage.io/docs/features/software-catalog/descriptor-format
 metadata:
   name: cafeapi  ## normalmente o mesmo do github
   annotations:
@@ -7,6 +7,6 @@ metadata:
   tags: ## linguagem do projeto
     - php 
 spec:
-  type: API ## tipo do projeto (mesmo do kind)
+  type: Component ## tipo do projeto (mesmo do kind)
   lifecycle: experimental ## production | experimental
   owner: renatopsdev ## nome do grupo owner
