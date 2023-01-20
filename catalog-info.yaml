@@ -4,7 +4,7 @@ metadata:
   name: cafeapi
   description: "CaféApi Library is a small set of classes developed in UpInside's Full Stack PHP Developer training"
   annotations:
-    github.com/project-slug: enatopsdev/cafeapi
+    github.com/project-slug: renatopsdev/cafeapi
   tags:
     - [ php ]
     - [renatops1991]
