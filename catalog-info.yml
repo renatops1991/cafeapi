@@ -1,12 +1,12 @@
-apiVersion: backstage.io/v1alpha1
-kind: API
+apiVersion: backstage.io/v1alpha1 ## nao alterar
+kind: API ## Component | Template | API | Group | User | Resource | System | Domain | Location => More info at https://backstage.io/docs/features/software-catalog/descriptor-format
 metadata:
-  name: cafeapi
+  name: cafeapi  ## normalmente o mesmo do github
   annotations:
-    github.com/project-slug: renatopsdev/cafeapi
-  tags:
-    - php
+    github.com/project-slug: renatopsdev/cafeapi ## normalmente o mesmo do github
+  tags: ## linguagem do projeto
+    - php 
 spec:
-  type: API
-  lifecycle: experimental
-  owner: renatops1991
+  type: API ## tipo do projeto (mesmo do kind)
+  lifecycle: experimental ## production | experimental
+  owner: renatopsdev ## nome do grupo owner
