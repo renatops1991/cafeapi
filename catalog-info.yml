@@ -8,4 +8,5 @@ metadata:
     - PHP
 spec:
   type: API
+  lifecycle: exprimental
   owner: renatopsdev
