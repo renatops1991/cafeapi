@@ -2,12 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: [ Component | Resource | API ]
 metadata:
   name: cafeapi
-  description: "CaféApi Library is a small set of classes developed in UpInside's Full Stack PHP Developer training"
+  description: [ "CaféApi Library is a small set of classes developed in UpInside's Full Stack PHP Developer training" ]
   annotations:
     github.com/project-slug: renatopsdev/cafeapi
   tags:
     - [ php ]
-    - [renatops1991]
+    - [ renatops1991 ]
 spec:
   type: [ service ]
   lifecycle: [ exprimental (se estiver funcionando apenas em staging) | production | deprecated (em desuso) ]
