@@ -7,6 +7,6 @@ metadata:
   tags: ## linguagem do projeto
     - php 
 spec:
-  type: Component ## tipo do projeto (mesmo do kind)
+  type: website ## tipo do projeto (mesmo do kind)
   lifecycle: experimental ## production | experimental
   owner: renatopsdev ## nome do grupo owner
